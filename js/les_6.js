@@ -32,7 +32,7 @@ console.log(existy(naam));
  * Beantwoord de volgende vragen
  */
 import Student from "entities/student.js";
- const newStudent = new Student("Stefan ", "Stekelenburg", 19);
+ const newStudent = new Student("Stefan ", "Stekelenburg", 17);
 
 console.log('constructor getFullName proto');
 
